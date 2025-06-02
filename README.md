@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<Cauculadora de preço preço de produtos>
 <html>
 <head>
     <title>Calculadora de Revenda</title>
